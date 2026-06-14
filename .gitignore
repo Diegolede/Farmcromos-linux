@@ -1,7 +1,12 @@
-# Config and Logs
+# Config and Logs (personal data - DO NOT upload)
 settings.conf
 idlemaster.log
 blacklist.txt
+
+# Personal images (screenshots, logos, branding)
+captura.png
+FarmCromosLinux.png
+trn.png
 
 # Python
 __pycache__/
