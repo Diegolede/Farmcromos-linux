@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">FarmCromos Linux</h1>
-<p align="center"><b>v3.0.0</b> — Idle automático de cromos de Steam para Linux</p>
+<p align="center"><b>v1.0.0</b> — Idle automático de cromos de Steam para Linux</p>
 
 <p align="center">
   🌎 <a href="#english">English</a> &nbsp;|&nbsp; 🇦🇷 <a href="#español">Español</a>

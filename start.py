@@ -21,7 +21,7 @@ colorYellow = "\033[33m"
 colorReset = "\033[39m"
 
 # Version
-version = "v3.0"
+version = "v1.0.0"
 
 # Directory
 os.chdir(os.path.abspath(os.path.dirname(sys.argv[0])))
