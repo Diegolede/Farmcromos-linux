@@ -3,9 +3,8 @@ settings.conf
 idlemaster.log
 blacklist.txt
 
-# Personal images (screenshots, logos, branding)
+# Personal images (screenshots, signature - DO NOT upload)
 captura.png
-FarmCromosLinux.png
 trn.png
 
 # Python
