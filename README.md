@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="FarmCromosLinux.png" alt="FarmCromos Linux Logo" width="400">
+  <img src="https://raw.githubusercontent.com/Diegolede/Farmcromos-linux/assets/FarmCromosLinux.png" alt="FarmCromos Linux Logo" width="400">
 </div>
 
 <h1 align="center">FarmCromos Linux</h1>
