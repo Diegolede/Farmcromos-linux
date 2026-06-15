@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Diegolede/Farmcromos-linux/assets/FarmCromosLinux.png" alt="FarmCromos Linux Logo" width="400">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Diegolede/Farmcromos-linux/assets/captura.png" alt="FarmCromos Linux Screenshot" width="800">
 </div>
 
 <h1 align="center">FarmCromos Linux</h1>
@@ -266,3 +268,8 @@ Cualquier juego en esta lista será omitido. También podés agregar juegos a la
 ## 📄 Licencia
 
 Licencia MIT — ver [LICENSE](LICENSE) para más detalles. Creado por **TRN1 diego ledesma**.
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Diegolede/Farmcromos-linux/assets/trn.png" alt="TRN1 Signature" width="150">
+</div>
